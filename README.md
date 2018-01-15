@@ -1,5 +1,9 @@
 # docker_training
 Link
+
+https://mensuel.framapad.org/p/docker0118
+
+
 Lien presentation :
     https://docs.google.com/presentation/d/1u1AtyoRZZdREEBOLTslfYxykJ5Z5n9DyKjoOrHmMbL4/edit?usp=sharing
     
@@ -8,11 +12,20 @@ Lien presentation :
     
     https://docs.docker.com/engine/installation/
 
+   https://github.com/moby/moby/blob/master/oci/defaults.go#L14-L30
+
+https://github.com/moby/moby/blob/master/profiles/seccomp/default.json
+
+
+
+
 
 git remote add origin https://github.com/jlthorel/docker_training.git
     
+
+
     
-git add 
+git add  .
 git commit -m "first commit"
 git push -u origin master
 
