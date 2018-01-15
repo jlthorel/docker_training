@@ -7,8 +7,14 @@ Lien presentation :
     https://blog.jessfraz.com/post/windows-for-linux-nerds/
     
     https://docs.docker.com/engine/installation/
+
+
+git remote add origin https://github.com/jlthorel/docker_training.git
     
     
+git add 
+git commit -m "first commit"
+git push -u origin master
 
 
 Day 1
