@@ -21,7 +21,9 @@ https://docs.docker.com/engine/reference/commandline/ps/#formatting
 
 vim /etc/resolv.conf
 
+https://github.com/revollat
 
+http://supervisord.org/
 
 git remote add origin https://github.com/jlthorel/docker_training.git
     
