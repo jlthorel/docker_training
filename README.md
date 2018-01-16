@@ -16,7 +16,10 @@ Lien presentation :
 
 https://github.com/moby/moby/blob/master/profiles/seccomp/default.json
 
+https://docs.docker.com/engine/reference/commandline/ps/#formatting
 
+
+vim /etc/resolv.conf
 
 
 
